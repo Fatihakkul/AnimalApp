@@ -1,6 +1,6 @@
 import React from 'react'
 import {SafeAreaView,View,Text,StatusBar,Image, StyleSheet} from 'react-native'
-import {LoginButtons,LoginInput} from '../components/'
+import {LoginButtons,LoginInput} from '../components'
 import style from '../style/LoginStyle'
 
 
