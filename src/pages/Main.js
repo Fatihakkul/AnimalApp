@@ -7,10 +7,13 @@ import data from '../data.json'
 
 const Main =props=>{
 
+    function goDeclared (item){
+        props.navigation.navigate('Declared' , item )
+    }
 
     const renderList =({item})=>{
         return(
-            <MainListItem data={item}/>
+            <MainListItem data={item} onPress={()=>goDeclared(item)}/>
         )
     }
 

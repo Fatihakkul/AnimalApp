@@ -72,7 +72,14 @@ const DeclaredStyle = StyleSheet.create({
    map : {
        width : width,
        height : 150,
-       marginBottom : 15
+       marginBottom : 15,
+       borderColor : '#8F56B5',
+       borderTopWidth : 1,
+       borderBottomWidth : 1
+   },
+   mapCont : {
+    borderColor : '#8F56B5',
+    borderTopWidth : 1
    }
 
 })

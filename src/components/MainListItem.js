@@ -12,7 +12,7 @@ const MainListItem =props=>{
                 <Text style={styles.name}>{props.data.name}</Text>
                 <Text style={styles.ilan} numberOfLines ={2}>{props.data.ilan}</Text>
                 <View>
-                    <Pressable style={styles.button}>
+                    <Pressable style={styles.button} onPress={props.onPress}>
                         <Text  style={styles.buttonTitle}>Sahiplen</Text>
                     </Pressable>
                 </View>

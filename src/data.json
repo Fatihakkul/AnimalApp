@@ -1,7 +1,7 @@
 [
-    { "ilan" : "sadasddddddddddddddddddddddasdads" , "name" : "Boncuk" },
-    { "ilan" : "sadasdasdads"  , "name" : "Boncuk"},
-    { "ilan" : "sadasdasdads" , "name" : "Boncuk" },
-    { "ilan" : "sadasdasdads"  , "name" : "Boncuk"},
-    { "ilan" : "sadasdasdads"  , "name" : "Boncuk"}
+    { "ilan" : "sadasddddddddddddddddddddddasdads" , "name" : "Boncuk"  , "lat" : 40.952522 , "long" : 29.098155},
+    { "ilan" : "sadasdasdads"  , "name" : "Boncuk" , "lat" : 40.976373, "long" :29.055543 },
+    { "ilan" : "sadasdasdads" , "name" : "Boncuk"  , "lat" : 40.956671, "long" : 29.073388},
+    { "ilan" : "sadasdasdads"  , "name" : "Boncuk" , "lat" : 40.981557 , "long" : 29.032162},
+    { "ilan" : "sadasdasdads"  , "name" : "Boncuk" , "lat" :40.977410, "long" :29.074762}
 ]
